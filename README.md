@@ -1,2 +1,2 @@
 # Fake-news-project
-this project using Logistic regression
+This model is work on Logistic Regression ,This project made by me
